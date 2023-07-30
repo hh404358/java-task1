@@ -1,13 +1,12 @@
 # java-task1
-西瓜摊类
-设计一个西瓜摊类
+## 设计一个西瓜摊类
 
-私有变量：
+### 私有变量：
 摊号 long id
 摊主姓名 String name
 在售西瓜数 int tota
 是否休摊整改 boolean isClosed
-方法：
+### 方法：
 上述变量对应的 get 和 set 方法
 一个重写的 toString()方法来输出 该西瓜摊的所有信息（要有一定的格式
 一个接受摊号(long)、摊主姓名(name) 、在售西瓜数(int)、是否休摊整改 (boolean)作为参数的构造方法
